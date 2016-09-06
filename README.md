@@ -1,2 +1,2 @@
-# info1300_assignment02
-Git repository of the info1300 assignment02 files
+# info1300_assignment01
+Git repository of the info1300 assignment01 files
